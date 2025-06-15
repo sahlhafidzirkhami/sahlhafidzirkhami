@@ -1,4 +1,4 @@
-## Hi there My Viewers! I'm Hafidz 👋
+## Hello World! I'm Hafidz 👋
 
 ![hafidz](/github-header-image.png)
 
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Projects
+- 🌱 I’m currently learning Android Apps
 
 #### Skills
 
