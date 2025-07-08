@@ -42,3 +42,7 @@ Here are some ideas to get you started:
 #### Contact Me
 
 ![https://www.instagram.com/sahlhafidzirkhami/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://mail.google.com/mail/?view=cm&fs=1&to=sahl.10122411@mahasiswa.unikom.ac.id](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://www.linkedin.com/in/sahlhafidzirkhami](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
+
+#### Github Stats
+
+![sahlhafidzirkhami GitHub stats](https://github-readme-stats.vercel.app/api?username=sahlhafidzirkhami&show_icons=true&theme=transparent)
