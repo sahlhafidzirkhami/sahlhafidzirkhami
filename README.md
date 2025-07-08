@@ -31,3 +31,9 @@ Here are some ideas to get you started:
 #### Github Stats
 
 ![sahlhafidzirkhami GitHub stats](https://github-readme-stats.vercel.app/api?username=sahlhafidzirkhami&show_icons=true&theme=transparent)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahlhafidzirkhami/sahlhafidzirkhami/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahlhafidzirkhami/sahlhafidzirkhami/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sahlhafidzirkhami/sahlhafidzirkhami/output/pacman-contribution-graph.svg">
+</picture>
